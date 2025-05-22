@@ -11,8 +11,7 @@ A professional Bash script to check internet connectivity, latency, download spe
 - Download speed test using real servers 
 - Visual graphs for speed and latency
 - Internet accessibility check
-- Optional TUI support using `dialog`
-
+  
 ---
 
 ## 🚀 Quick Start (Run with One Command)
