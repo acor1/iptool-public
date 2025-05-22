@@ -7,8 +7,8 @@ A professional Bash script to check internet connectivity, latency, download spe
 ## ✨ Features
 
 - Detects your IP and geolocation
-- Ping test to Google and major cities in Iran (Tehran, Shiraz, Mashhad, etc.)
-- Download speed test using real servers (Hetzner, Cachefly, Leaseweb)
+- Ping test to Google and major cities in Iran 
+- Download speed test using real servers 
 - Visual graphs for speed and latency
 - Internet accessibility check
 - Optional TUI support using `dialog`
